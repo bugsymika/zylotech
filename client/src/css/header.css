@@ -1,0 +1,54 @@
+.header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.header-values-display {
+  display: flex;
+  margin: 0px;
+}
+
+.header-values {
+  display: flex;
+  width: 10vw;
+  margin-left: 40px;
+}
+
+.blue {
+  color: #8884d8;
+}
+
+.green {
+  color: #82ca9d;
+  margin-left: 10px;
+}
+
+.red {
+  color: #ff0000;
+  margin-left: 10px;
+}
+
+.dvd-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.header-timer {
+  width: fit-content;
+  height: fit-content;
+}
+
+h2 {
+  margin: 0px;
+}
+
+.graph-value-change-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 10%;
+  width: 40vw;
+  margin: auto;
+}

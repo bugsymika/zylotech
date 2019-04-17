@@ -1,0 +1,16 @@
+.graph-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: whitesmoke;
+}
+
+.graph-graph {
+  height: 86vh;
+  width: 100vw;
+  background-color: whitesmoke;
+}
+
+p {
+  margin: 0;
+  background-color: whitesmoke;
+}

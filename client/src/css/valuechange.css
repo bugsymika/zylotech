@@ -1,0 +1,13 @@
+.value-change-value {
+  font-size: 1.4rem;
+  margin: 8px;
+  font-weight: bold;
+}
+
+.value-change-container {
+  height: fit-content;
+  width: fit-content;
+  margin: auto;
+
+  margin-left: 10px;
+}

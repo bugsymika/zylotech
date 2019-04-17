@@ -1,0 +1,5 @@
+.outerBar {
+  height: 100%;
+  background-color: rgb(61, 243, 61);
+  z-index: 10;
+}
